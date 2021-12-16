@@ -1,0 +1,22 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "timestamp": {
+        "type": "integer",
+        "exclusiveMinimum": 0
+      },
+      "file": {
+        "type": "string"
+      },
+      "project": {
+        "type": "string"
+      },
+      "branch": {
+        "type": "string"
+      }
+    },
+    "required": ["timestamp", "file"]
+  }
+}

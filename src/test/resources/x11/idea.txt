@@ -1,0 +1,2 @@
+WM_CLASS(STRING) = "jetbrains-idea-ce", "jetbrains-idea-ce"
+WM_NAME(COMPOUND_TEXT) = "chronos – X11ActiveWindowTest.java"

@@ -1,0 +1,12 @@
+*.swp
+*.db
+/.idea/
+/.java-version
+
+target/
+dependency-reduced-pom.xml
+
+tags
+
+/log4j2.properties
+/log/*.log
